@@ -40,6 +40,7 @@ a{
     background-repeat: no-repeat;
     background-position: center;
     background-size:cover;
+    transition: background-image 0.7s ease-in-out;
 }
 
 .header, .content, .footer{
@@ -95,6 +96,7 @@ a{
     align-items: flex-start;
     margin-left: 80px;
     position: relative;
+    
 }
 .slideButton{
     position: absolute;
